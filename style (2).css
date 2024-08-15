@@ -5,7 +5,7 @@ body{
     background-position: center;
     width:100%;
     margin-top: 50px;
-    
+    display:inline;
 }
 .container
 {
@@ -52,4 +52,13 @@ button{
     padding: 4px;
     width:400px;
     text-transform: uppercase;
+}
+button:hover
+{
+    background-color: black;
+    color: white;
+}
+a:hover
+{
+    color: brown;
 }

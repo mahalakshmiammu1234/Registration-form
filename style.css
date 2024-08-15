@@ -4,6 +4,8 @@ body{
     background-color:indigo;
     background-position: center;
     margin-top: 100px;
+    box-sizing: border-box;
+
 }
 .container
 {
@@ -50,6 +52,14 @@ button{
     background-color: blue;
     color: white;
     padding: 4px;
-    width:400px;
-    
+    width:400px;   
+}
+button:hover
+{
+    background-color: black;
+    color: white;
+}
+a:hover
+{
+    color: brown;
 }
