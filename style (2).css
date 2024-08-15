@@ -5,7 +5,7 @@ body{
     background-position: center;
     width:100%;
     margin-top: 50px;
-    display:inline;
+    position: fixed;
 }
 .container
 {
