@@ -4,7 +4,7 @@ body{
     background-color:indigo;
     background-position: center;
     margin-top: 100px;
-    position:fixed;
+    width:100%;
 }
 .container
 {
